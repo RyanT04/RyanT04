@@ -112,7 +112,7 @@ Eat well. Spend less. Save automatically. Ambrosia generates personalised monthl
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=vercel&logoColor=A78BFA)](https://www.ryantang.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ryant04)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryankwangloketang/)
 [![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/RyanT04)
 
 </div>
