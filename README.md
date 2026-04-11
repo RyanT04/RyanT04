@@ -97,18 +97,11 @@ Eat well. Spend less. Save automatically. Ambrosia generates personalised monthl
 
 ---
 
-## 📊 GitHub Stats
+## 💬 Dev Quote
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RyanT04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanT04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RyanT04&theme=tokyonight&hide_border=true&background=0d1117&stroke=A78BFA&ring=A78BFA&fire=ff6b6b&currStreakLabel=A78BFA)](https://github.com/DenverCoder1/github-readme-streak-stats)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
